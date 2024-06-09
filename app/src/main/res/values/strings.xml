@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tictactoenew</string>
+    <string name="img">cross</string>
+    <string name="tic_tac_toe">TIC TAC TOE</string>
+    <string name="x_s_turn_tap_to_play">X\'s turn - Tap to play</string>
+    <string name="replay">Replay</string>
+
+</resources>
